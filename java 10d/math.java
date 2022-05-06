@@ -28,7 +28,7 @@ public class math {
         return erg;
     }
 
-    public static void main(String[] args) { // Das ist fakultät mit der mainmethode
+    public static void fakultät (String[] args) { // Das ist fakultät mit der mainmethode
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");
         int num = sc.nextInt();
