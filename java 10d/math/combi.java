@@ -1,3 +1,4 @@
+package math;
 import java.util.Scanner;
 public class combi {
     public static void main(String[] args) {

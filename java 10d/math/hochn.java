@@ -1,3 +1,4 @@
+package math;
 import java.util.Scanner;
 public class hochn {
     public static void main(String[] args) { // Das ist hochrechnen mit der mainmethode

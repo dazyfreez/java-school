@@ -1,3 +1,4 @@
+package math;
 import java.util.Scanner;
 public class fak {
     public int fakultät( int num) { // Fakultät so machen wir es in der Schule
