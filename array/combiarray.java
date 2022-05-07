@@ -12,7 +12,8 @@ public class combiarray {
                 erg = b[i];
             }
         }
-        System.out.println(erg+" "+erg1);
+        int erg2 = erg + erg1;
+        System.out.println(erg2);
 
 }
 }
