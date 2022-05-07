@@ -4,7 +4,7 @@ public class arrayadd {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter a number from 0 to 4");
         int x = sc.nextInt();
-        if (x<5){
+        if (x<4){
         int[] a = {1, 2, 3, 4, 5};
         int[] b = {6, 7, 8, 9, 10};
         int[] c = new int[a.length + b.length];
