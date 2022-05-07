@@ -14,6 +14,7 @@ public class combiarray {
         }
         int erg2 = erg + erg1;
         System.out.println(erg2);
+        
 
 }
 }
