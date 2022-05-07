@@ -15,7 +15,7 @@ public class findekleinste{
     }
 
     public static void main(String[] args) {
-        int[] f = {1, 2, 3, 4, 5};
+        int[] f = {1, 2, 3, 0, 5};
        int erg = f[0];
             for(int i=1; i<f.length; i++)
             {
