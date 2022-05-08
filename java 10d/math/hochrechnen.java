@@ -8,6 +8,8 @@ public class hochrechnen {
         sc.close();
         int erg = 1;
       
-      for (int i =1; i <= )  
+      for (int i =1; i <=n; i++) {
+          erg = erg + i;
+      } 
     }
 }
