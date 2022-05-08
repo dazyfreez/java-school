@@ -11,5 +11,6 @@ public class hochrechnen {
       for (int i =1; i <=n; i++) {
           erg = erg + i;
       } 
+      System.out.println(erg);
     }
 }
