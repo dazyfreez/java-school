@@ -8,6 +8,6 @@ public class arraydiv {
         }
         return f;
         System.out.println(x);
-        System.out.println("du hure");
+        System.out.println("du hur");
     }
 }
