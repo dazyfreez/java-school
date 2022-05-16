@@ -1,3 +1,4 @@
+package math;
 public class diskri {
     public void disk(int a, int b, int c){
         if (b*b-4*a*c>=0){
